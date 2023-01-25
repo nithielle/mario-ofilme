@@ -1,0 +1,14 @@
+/* o * no css se chama SELETOR e o conteúdo das chaves sao propriedades tmb */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
